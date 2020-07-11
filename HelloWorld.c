@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-printf("Another Branch Hello World\n");
+printf("modified in branch b2\n");
 return 0;
 }
